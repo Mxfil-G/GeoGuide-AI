@@ -1,0 +1,7 @@
+{
+  "name": "Copy of GeoGuide AI",
+  "description": "An expert map chatbot that uses Google Maps and Search grounding to provide accurate geographical information, restaurant recommendations, and travel insights based on your current location.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
